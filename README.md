@@ -85,6 +85,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Chamara17-cc/Chamara17-cc/output/snake.svg" alt="Snake animation" />
+
 
 ###
